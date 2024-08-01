@@ -11,3 +11,4 @@
 <img src="https://github.com/cauamoura7/Wide-Location/blob/main/img/desktop.png?raw=true" />
 
 <h2>Imagem mobile</h2>
+<img src="https://github.com/cauamoura7/Wide-Location/blob/main/img/mobile.png?raw=true" />
